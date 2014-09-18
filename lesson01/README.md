@@ -3,9 +3,14 @@
 Although this appears trivial, it's the foundation of what we'll be 
 doing in these lessons.
 
+```
+javascript: alert('Yeah! Learning to program!');
+```
+
 ## About
 
-Look inside lesson01.js. What you see there is some very basic javascript.
+Look inside lesson01.js (copied above for convenience). What you 
+see there is some very basic javascript.
 
 We'll be creating a bookmark with the contents of this file. If you're 
 unfamiliar, a bookmark is a web link stored by your web browser for 
@@ -23,5 +28,5 @@ message box containing the quoted message, which in this case is
 ## What to do
 
 1. Add the following link to your browser as a bookmark: [javascript: alert('Yeah! Learning to program!');](javascript: alert('Yeah! Learning to program!');)
-1. Click on the bookmark (when it's a program instead of a link, we call it a 'bookmarklet')
+1. Click on the bookmark (when it's a program like this, instead of a link, we call it a 'bookmarklet')
 

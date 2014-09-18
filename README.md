@@ -16,3 +16,7 @@ for your amusement/needs.
 This is only the beginning, so I'd strongly encourage levaraging 
 other freely available and easily accessible resources to learn more.
 
+Currently, these lessons have only been tested in Chrome. They may 
+not work in other browsers. It's assumed throughout the lessons that 
+you're using Chrome.
+
